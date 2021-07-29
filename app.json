@@ -9,7 +9,7 @@
     "manager",
     "op"
   ],
-  "repository": "hhttps://github.com/Rexinazor/Group_Manager",
+  "repository": "https://github.com/SumantaGitWeb/Group_Manager",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -47,10 +47,6 @@
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
       "value": "1866542500"
-    },
-    "DONATION_LINK": {
-      "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
