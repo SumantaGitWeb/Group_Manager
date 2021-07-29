@@ -22,13 +22,13 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I am a multifunctional yet User-friendly group management bot and I will take care of your group!✌
+I am a Basic and dangerous group sambhaling powerful bot and I will take care of your community / group!✌
 
-Click /help or Help button below to find out more about how to use me to my full potential.
+Click /help or Help button below to get help about me and all other details...
 
 Add me to a group by clicking [here](http://t.me/{}?startgroup=true).
-Don't Forget to make me Admin!
-Contact [Owner](t.me/Avrazel)
+Don't Forget to make me Admin / Owner..!
+Contact [Owner](t.me/SumantaCoder)
 """
 
 
